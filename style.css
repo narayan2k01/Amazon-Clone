@@ -10,6 +10,7 @@
  display: flex;
  align-items: center;
  justify-content: space-evenly;
+    position: fixed;
 }
 .nav-logo{
     height: 50px;
@@ -108,6 +109,8 @@ span{
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+padding:4%;
+
 }
 .panel-ops p{
     display: inline;
@@ -180,6 +183,11 @@ footer{
     justify-content: center;
     align-items:center;
     font-size: 0.50;
+}
+
+.fot-panel1>a{
+color: white;
+text-decoration: none;
 }
 .fot-panel2 {
     display: flex;
