@@ -266,3 +266,6 @@ text-decoration: none;
     align-items: center;
     border-top: 0.4px solid white;
 }
+html {
+    scroll-behavior: smooth;
+  }
